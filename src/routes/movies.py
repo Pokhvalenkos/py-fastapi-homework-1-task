@@ -65,3 +65,4 @@ async def get_movie_details(
         )
 
     return movie
+
